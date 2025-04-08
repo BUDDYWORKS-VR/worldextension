@@ -6,6 +6,9 @@ using VRC.Udon.Common.Interfaces;
 using VRC.SDK3.StringLoading;
 using UnityEngine.UI;
 
+// You may need to customize this script to your worlds needs, ideally you copy this code except the namespace and create a new U# Code file in your /Assets/ directory.
+// Any customization you do to the packaged file will be wiped when you update World Extension.
+
 namespace BUDDYWORKS.WorldExtension
 {
   [AddComponentMenu("BUDDYWORKS/Permission Manager")]

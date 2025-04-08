@@ -1,0 +1,13 @@
+user,isAdmin,isHeadStaff,isSecurity,isStaff,isDancer,isPatron1,isPatron2
+buddy_de,1,1,1,1,0,1,1
+
+
+# You can use pastebin to load this data in, specify the raw link in the URL field of the Permission Manager component.
+# The permissions are parsed in order, and each flag (0 or 1) represents a role.
+# The demo entry for example has admin, headstaff, security, staff and both patreon permissions.
+#
+# Having a permission flag will trigger the gameobjects listed to be toggled on.
+# Being in one of the patreon groups will also print the name into text fields, if desired.
+# 
+# You may need to customize this script to your worlds needs, ideally you copy this code except the namespace and create a new U# Code file in your /Assets/ directory.
+# Any customization you do to the packaged file will be wiped when you update World Extension.

@@ -13,7 +13,7 @@
   
 </div>
 
-##Included Components 
+## Included Components 
 
 **Trigger Block**  
 A chainable component that does something when triggered in various ways. Use this to make world toggles.  

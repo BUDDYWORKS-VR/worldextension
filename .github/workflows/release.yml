@@ -7,10 +7,10 @@ on:
     paths: package.json
 
 env:
-  packageName: "wtf.buddyworks.PACKAGE"
-  packagePath: "Packages/wtf.buddyworks.PACKAGE"
-  packageFileName: "BUDDYWORKS_"
-  packageReleaseName: "BUDDYWORKS "
+  packageName: "wtf.buddyworks.worldextension"
+  packagePath: "Packages/wtf.buddyworks.worldextension"
+  packageFileName: "BUDDYWORKS_WorldExtension"
+  packageReleaseName: "BUDDYWORKS World Extension"
 
 permissions:
   contents: write

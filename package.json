@@ -1,0 +1,14 @@
+{
+  "name" : "wtf.buddyworks.worldextension",
+  "displayName" : "BUDDYWORKS World Extension",
+  "version" : "0.0.1",
+  "unity" : "2022.3",
+  "description" : "Various neat things for Unity.",
+  "author": {
+    "name": "BUDDYWORKS",
+    "email": "hi@buddyworks.wtf"
+  },
+    "vpmDependencies": {
+    "com.vrchat.worlds": "^3.7"
+  }
+}

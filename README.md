@@ -15,6 +15,7 @@
 
 **Included Components**  
 Toggle Block - A chainable component that does something when triggered in various ways. Use this to make world toggles.  
+  
 Permission Manager - Somewhat elaborate permission manager, made for clubs. Create a copy into /Assets/ if you customize this!  
 
 Crediting:  

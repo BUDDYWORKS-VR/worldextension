@@ -1,7 +1,7 @@
 {
   "name" : "wtf.buddyworks.worldextension",
   "displayName" : "BUDDYWORKS World Extension",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "unity" : "2022.3",
   "description" : "Various neat things for Unity.",
   "author": {
